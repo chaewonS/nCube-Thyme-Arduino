@@ -1,5 +1,6 @@
 # nCube-Thyme-Arduino
-KETI THIRD Project
+# KETI Project3
+---
 + TO DO LIST
   + 소스코드 최신화 (모비우스 버전 정보 명시)
   + 동작 확인
