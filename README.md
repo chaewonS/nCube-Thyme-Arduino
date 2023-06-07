@@ -10,3 +10,8 @@ KETI THIRD Project
 ## nCube-Thyme-Arduino_Aquarium
 + lang/env
   + c++
++ sensor
+  + PH sensor
+  + Temp sensor
+  + WaterLevel (wlevel, 수위) sensor
+  + LED (조명,밝기) sensor
