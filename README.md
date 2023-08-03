@@ -1,4 +1,4 @@
-# nCube-Thyme-Arduino
+# nCube-Thyme-Arduino_Aquarium
 # KETI Project3
 ---
 + TO DO LIST
@@ -8,7 +8,6 @@
   + 샘플 앱 프로젝트의 경우, 리소스 트리 문서에 반드시 추가
   + 데모가 있는 경우 영상 추가
 
-## nCube-Thyme-Arduino_Aquarium
 + lang/env
   + c++
 + sensor
